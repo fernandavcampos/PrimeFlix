@@ -5,3 +5,7 @@
 Prime Flix é um site onde é possível ver uma lista de filmes que estão em cartaz.
 Nele você pode acessar o filme, ver a sinopse e a avaliação, além de poder assistir ao trailer do filme.
 É possível também salvar na sua lista de filmes ou exluí-lo da sua lista.
+
+
+## Tecnologias usadas: 
+**HTML, CSS, Javascript, React.**
